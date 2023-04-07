@@ -1,4 +1,9 @@
 {
+    "aria2": {
+        "speed": "Speed",
+        "active": "Active",
+        "queue": "Queue"
+    },
     "common": {
         "bytes": "{{value, bytes}}",
         "bits": "{{value, bytes(bits: true)}}",

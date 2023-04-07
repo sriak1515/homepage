@@ -1,4 +1,9 @@
 {
+    "aria2": {
+        "speed": "Débit",
+        "active": "Actif",
+        "queue": "En attente"
+    },
     "widget": {
         "missing_type": "Type de widget manquant: {{type}}",
         "api_error": "Erreur de l'API",
